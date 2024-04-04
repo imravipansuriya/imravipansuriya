@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with javascript.
 - 💬 Ask me about Frontend Dev.
 - 📫 How to reach me: [linkedin] (https://www.linkedin.com/in/ravipansuriya/)
-- 👀 https://ravipansuriya786.wixsite.com/ravipansuriya
+- 👀 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always listening songs 🎶 at work🧑🏻‍💻.
